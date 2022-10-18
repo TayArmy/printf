@@ -1,7 +1,7 @@
 0x10. C - printf
 Description
 
-This team project is part of the first year curriculum of Holberton School. _printf replicates the C standard library printf() function.
+This team project is part of the first year curriculum of Alx Africa. _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 
